@@ -1,4 +1,7 @@
 # GitPwnd
+DOWNLOAD: https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+PLACE THIS FILE WITHIN THE GITPWND FOLDER, THIS IS YOUR PASSWORD LIST
+
 GitPwnd is a password bruteforcing tool that I made as a project using Node JS and Puppeteer.
 
 How It Works:
