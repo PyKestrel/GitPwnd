@@ -1,6 +1,4 @@
 # GitPwnd
-GitHub Password Brute Forcing Tool
-
 GitPwnd is a password bruteforcing tool that I made as a project using Node JS and Puppeteer.
 
 How It Works:
